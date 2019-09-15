@@ -1,0 +1,1 @@
+Run 'make' command on any linux terminal to run the code.
