@@ -7,6 +7,7 @@ A guide for usage of symbols:
   '-' : NEGATION
   '.' : AND
   '>' : IMPLIES
+To change these, modify the 'op_encoded' map of the 'operators' structure in 'header.h' file.
 
 A few correct sample strings:
   1. p.q
